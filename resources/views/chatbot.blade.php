@@ -222,7 +222,7 @@
                                 Kirim
                             </button>
                         </form>
-                        <p class="text-[11px] text-center text-slate-500 mt-3">Menggunakan model AI melalui n8n webhook.</p>
+                        <p class="text-[11px] text-center text-slate-500 mt-3">Menggunakan model AI dari server rumah zwingli.</p>
                     </div>
                 </main>
             </div>
