@@ -25,7 +25,7 @@ class ChatbotController extends Controller
      */
     public function sendMessage(Request $request)
     {
-        $apiKey = 'AIzaSyBEbj1_X2H6dvmjggq2KGuSm1VynnoHfKk'; 
+        $apiKey = 'AIzaSyBmGvzlTo-vbVLg-z5Z8BGbSXfhSbacfuY'; 
 
         $request->validate(['prompt' => 'required|string']);
 
